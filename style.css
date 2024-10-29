@@ -1,0 +1,49 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    width: 30vw;
+    background-color: #4379F2;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.clases{
+    width: 400px;
+    text-decoration: none;
+}
+.clases{
+    text-align: center;
+}
+.lista-nav{
+    list-style: none;
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lista-nav a{
+    color: #FFEB00;
+    text-decoration: none;
+}
+.banner{
+    color: black;
+    text-align: center;
+    font-size: 2rem;
+}
+.logoInstagram{
+    width: 50px;
+}
+.logoGmail{
+    width: 50px;
+}
+.fondo{
+    background-color: #4379F2;
+}
+.presentacion{
+    text-align: center;
+}
+.logotipo{
+    width: 100px;
+}
